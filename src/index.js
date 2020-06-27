@@ -5,7 +5,6 @@ import './index.css';
 import App from './App';
 import 'bootstrap/dist/css/bootstrap.css';
 import * as serviceWorker from './serviceWorker';
-import Menu from "./components/Menu";
 import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.render(
